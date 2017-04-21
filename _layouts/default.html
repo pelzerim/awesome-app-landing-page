@@ -6,6 +6,17 @@
     {{ content }}
 
     <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+    <script>
+        $(document).ready(function (){
+         if(navigator.userAgent.toLowerCase().indexOf("android") > -1){
+             window.location.href = 'https://play.google.com/store/apps/details?id=de.augenberlin.augenzentrumlichterfelde';
+         }
+         if(navigator.userAgent.toLowerCase().indexOf("iphone") > -1){
+             window.location.href = 'https://itunes.apple.com/de/app/id1222436282?mt=8';
+         }
+        });
+	</script>
+
     <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> -->
     {% include apple.html %}
     {% include analytics.html %}
