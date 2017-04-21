@@ -26,11 +26,12 @@ app:
 # Marketing
 #
 marketing_header: Dies ist die Praxis-App des Augenzentrums Lichterfelde West MVZ. # Optional
-marketing_desc: > 
+marketing_desc: | 
 Wir vereinen alles für die Gesundheit Ihrer Augen: Diagnostik, konservative und operative Therapien (u.a. Kataraktoperationen mit Laser, Behandlung der Makuladegeneration, Fehlsichtigkeitskorrektur mit der Femto-LASIK).
 • Mit der App bekommen Sie nützliche Informationen über die Praxis: Sprechzeiten, Kontaktdaten, Leistungsspektrum, Link zur Webseite
 • Vor Allem können Sie direkt Termine anfragen. Wir rufen sie zur Terminvergabe zeitnah persönlich zurück. Darauf folgt eine Bestätigung per Mail und in Ihrer App. Push- oder SMS-Nachrichten erinnern Sie rechtzeitig an Ihre Termine. 
 • Des Weiteren bekommen Sie unter „News“ aktuelle Informationen zu Behandlungsmethoden und Veränderungen der Öffnungzeiten etc.
+
 
 # Social Links
 #
