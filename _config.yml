@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: Augenzentrum # REQUIRED - Enter your app name
+  ios_id: 1222436282 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: de.augenberlin.augenzentrumlichterfelde # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -26,8 +26,11 @@ app:
 # Marketing
 #
 marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+marketing_desc: Dies ist die Praxis-App des Augenzentrums Lichterfelde West MVZ.
+Wir vereinen alles für die Gesundheit Ihrer Augen: Diagnostik, konservative und operative Therapien (u.a. Kataraktoperationen mit Laser, Behandlung der Makuladegeneration, Fehlsichtigkeitskorrektur mit der Femto-LASIK).
+• Mit der App bekommen Sie nützliche Informationen über die Praxis: Sprechzeiten, Kontaktdaten, Leistungsspektrum, Link zur Webseite
+• Vor Allem können Sie direkt Termine anfragen. Wir rufen sie zur Terminvergabe zeitnah persönlich zurück. Darauf folgt eine Bestätigung per Mail und in Ihrer App. Push- oder SMS-Nachrichten erinnern Sie rechtzeitig an Ihre Termine. 
+• Des Weiteren bekommen Sie unter „News“ aktuelle Informationen zu Behandlungsmethoden und Veränderungen der Öffnungzeiten etc.
 #
 # Social Links
 #
